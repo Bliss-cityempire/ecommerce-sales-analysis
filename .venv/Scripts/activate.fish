@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV 'c:\Users\DELL INSPIRON\E-Commerce Data Analysis\.venv'
+set -gx VIRTUAL_ENV 'C:\Users\DELL INSPIRON\ecommerce-sales-analysis\.venv'
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"Scripts $PATH
